@@ -1,0 +1,47 @@
+[
+ {
+  "id": "pl_fav",
+  "kind": "favorites",
+  "icon": "heart",
+  "grad": [
+   "#FF4FA3",
+   "#9B5CFF"
+  ]
+ },
+ {
+  "id": "pl_nightcore",
+  "kind": "manual",
+  "icon": "headphones",
+  "grad": [
+   "#3987FF",
+   "#9B5CFF"
+  ]
+ },
+ {
+  "id": "pl_slowed",
+  "kind": "manual",
+  "icon": "moon",
+  "grad": [
+   "#2b3fd6",
+   "#3987FF"
+  ]
+ },
+ {
+  "id": "pl_energy",
+  "kind": "manual",
+  "icon": "bolt",
+  "grad": [
+   "#9B5CFF",
+   "#FF4FA3"
+  ]
+ },
+ {
+  "id": "pl_recent",
+  "kind": "recent",
+  "icon": "clock",
+  "grad": [
+   "#3987FF",
+   "#35E6D0"
+  ]
+ }
+]

@@ -1,0 +1,37 @@
+{
+ "effects": [
+  {
+   "id": "original",
+   "speed": 1,
+   "reverb": 0,
+   "icon": "check"
+  },
+  {
+   "id": "nightcore",
+   "speed": 1.25,
+   "reverb": 0,
+   "icon": "bolt"
+  },
+  {
+   "id": "slowed",
+   "speed": 0.85,
+   "reverb": 0,
+   "icon": "rewind"
+  },
+  {
+   "id": "slowed_reverb",
+   "speed": 0.85,
+   "reverb": 60,
+   "icon": "drop"
+  },
+  {
+   "id": "speedup",
+   "speed": 1.15,
+   "reverb": 0,
+   "icon": "ff"
+  }
+ ],
+ "speedMin": 0.5,
+ "speedMax": 2,
+ "reverbSeconds": 2.6
+}
